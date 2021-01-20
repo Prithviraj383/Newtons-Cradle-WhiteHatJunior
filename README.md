@@ -1,1 +1,2 @@
-# Newtons-Cradle-WhiteHatJunior
+#Newton's Cradle
+Newton's Cradle
